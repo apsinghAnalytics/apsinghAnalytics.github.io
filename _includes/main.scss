@@ -44,3 +44,9 @@
 
 // 6 TRUMPS
 @import '6-trumps/helpers';
+
+body {
+    // Add the background-image property with the URL of your image
+    background-image: url('/images/background.jpg');
+    background-size: cover; /* Adjust as needed */
+  }
