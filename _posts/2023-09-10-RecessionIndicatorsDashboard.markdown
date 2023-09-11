@@ -8,7 +8,12 @@ categories: Data Analytics
 ---
 ### **Power BI Dashboard Tracking Recession Indicators: Macro-Economic Data and Google Trends using Web-Scraping and PyTrends API**
 
-This GitHub repository contains a Power BI dashboard that provides valuable insights into the US economy's health. The dashboard is designed to give you a quick overview of the historical and recent economic trends, allowing you to track and analyze various key indicators that signal a potential recession. The dashboard is connected to **free data sources** and as such the dashboard can be refreshed to get the latest data. The snapshots shown provide a glimpse of the **2022 bear market**.
+Firstly, welcome to my blog! In this Power BI project, I'm diving into the world of economics and the stock market. I created this project because I wanted to understand what was happening during the market downturn of 2022. I was curious to know if the economy was actually at an inflection i.e. entering an **early bull market**. The link to the GitHub repository is [here](https://github.com/apsinghAnalytics/US_RecessionIndicatorsAndGoogleTrends). 
+
+In the Github repository, you will find a Power BI dashboard which provides valuable insights into the US economy's health. The dashboard is designed to give you a quick overview of the historical and recent economic trends, allowing you to track and analyze various key indicators that signal a potential recession. 
+
+What's cool about this project is that it connects to **free data sources** via Web Scraping, and as such the dashboard can be refreshed to get the latest data. The pictures you see here are snapshots of what the economy looked like during the **2022 bear market**.
+
 
 # Introduction
 Recessions are significant economic events that can impact various aspects of a country's economy. This Power BI dashboard aims to help users better understand and anticipate potential recessions by presenting a collection of key indicators that historically correlate with economic downturns.
@@ -22,21 +27,20 @@ The dashboard is structured with three distinct pages, each focusing on differen
 * Unemployment Rate
 * Consumer Price Index (CPI)
 
-<p align="center"> <img width="1000" src="https://github.com/DDataDudeADi/US_RecessionIndicatorsAndGoogleTrends/blob/main/HistoricalCPI_CCI_Unemployment.jpg"> </p>
+<p align="left"> <img width="600" src="/images/HistoricalCPI_CCI_Unemployment.jpg"> </p>
   
 ## 2. Recent 3-Year Indicators:
 * CCI, Unemployment Rate, and CPI (Continued)
 * PMI or Purchasing Managers' Index (Comparison of Previous and Current Months)
 * Durable Goods Orders (Comparison of Previous and Current Months)
 * US GDP (Gross Domestic Product)
-<p align="center"> <img width="1000" src="https://github.com/DDataDudeADi/US_RecessionIndicatorsAndGoogleTrends/blob/main/3YandQuarterlyMacros.jpg"> </p>
+<p align="left"> <img width="600" src="/images/3YandQuarterlyMacros.jpg"> </p>
 
   
 ## 3. Google Trends Search Data:
 * Google Trends search data for the term **"recession"** in the US
 
-<p align="center"> <img width="1000" src="https://github.com/DDataDudeADi/US_RecessionIndicatorsAndGoogleTrends/blob/main/GoogleTrendsRecessionUS.jpg"> </p>
-
+<p align="left"> <img width="600" src="/images/GoogleTrendsRecessionUS.jpg"> </p>
 # Relevance of Indicators
 Each indicator holds significance in tracking and analyzing potential recessions:
 
@@ -52,12 +56,11 @@ The dashboard relies on two different data sources:
   * For CCI, CPI, Quarterly GDP: https://stats.oecd.org/
   * For PMI, Durable goods: https://tradingeconomics.com/united-states/
 
-<p align="center"> <img width="700" src="https://github.com/DDataDudeADi/US_RecessionIndicatorsAndGoogleTrends/blob/main/WebImportedDataSource.jpg"> </p>
-
+<p align="left"> <img width="600" src="/images/WebImportedDataSource.jpg"> </p>
   
 * **Python Script with PyTrends API:** A custom Python script queries the Google Trends search data for the term **"recession"** using the PyTrends API and directly provides the data to Power BI.
-<p align="center"> <img width="700" src="https://github.com/DDataDudeADi/US_RecessionIndicatorsAndGoogleTrends/blob/main/PythonImportedDataSource.jpg"> </p>
-<p align="center"> <img width="700" src="https://github.com/DDataDudeADi/US_RecessionIndicatorsAndGoogleTrends/blob/main/PythonImportedDataSource2.jpg"> </p>
+<p align="left"> <img width="600" src="/images/PythonImportedDataSource.jpg"> </p>
+<p align="left"> <img width="600" src="/images/PythonImportedDataSource2.jpg"> </p>
 
 
 # Python Script for Google Trends Data
