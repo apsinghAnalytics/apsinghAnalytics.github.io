@@ -4,12 +4,12 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "apsinghAnalytics.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Adity Prakash Singh
+author-name:    Aditya Prakash Singh
 author-image:   profilePic.jpg
 author-job:     Beyond Analytics - My Growth Diaries
 author-email:   apsinghx21@gmail.com # Add your email for contant form.
 author-twitter:  # Add your twitter account
-about-author:   I am a mechanical and aerospace engineer with a research background in thermodynamics and simulations. Curiosity about the capital markets led me to explore data science. This blog showcases my data science projects and other personal growth explorations.
+about-author:   An engineer with a research background in thermodynamics and fluid simulations. Curiosity about the capital markets led me to explore data science. This blog showcases my data science projects and other personal growth explorations.
 
 # Social settings
 social-twitter:   
