@@ -4,7 +4,7 @@ title: Generative AI Art - Midjourney and DALL-E
 image: mermaid_midj.png
 date: 2023-11-08 9:21:20 +0200
 tags: [AI Art, Generative Art, Generative Artificial Intelligence]
-categories: Ai Art
+categories: AI_Art
 ---
 
 During the GPT chat hype, a few pictures of AI-generated art made by DALL-E emerged, notably the astronaut sitting on the horse, and I was blown away. It was amazing how one could describe a picture in natural language, and AI would make it. Essentially, now one is not limited by their painting and sketching skills but by their imagination. So, I had to explore this. I started with DALL-E, and after making about 50 images, it was pretty clear to me that I tend to lean towards 'dramatic stills' involving characters and people. By this time, I had read enough blogs to discover Midjourney, which excelled in creating characters and people. Therefore, I decided to give it a try and gain some hands-on experience. The beautiful results are displayed below.
