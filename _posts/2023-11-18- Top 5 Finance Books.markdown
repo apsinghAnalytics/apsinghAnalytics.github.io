@@ -7,7 +7,7 @@ tags: [Investing, Finance, Market, Stock Markets, Wealth, Financial Independence
 categories: Books
 ---
  
-
+***
 ### 5. Rich Dad Poor Dad by Robert T. Kiyosaki
 
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.ca/kp/card?asin=B07C7M8SX9&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_PT2621BCZH0KFJKN17NY&hideBuy=true&hideShare=true" ></iframe>
@@ -18,11 +18,9 @@ However, this isn't your heavy-duty financial textbook. It won't bore you with c
 
 I used to have a lot of respect for this book and Kiyosaki himself – until I started noticing a strange correlation between scammy characters at networking events and this book, with their claims on it's the one book that one needs to be financially independent by next year. Kiyosaki’s dramatic YouTube videos about how ‘they're always out to make you poor’, didn't help either. Personal bias aside, this book did something for me – it drove home the importance of being financially educated and kept me motivated throughout my investing journey. The book has got these visual paragraphs that stick, like this one: 
 
-<blockquote class="blockquote">
-    <p> “On the news was a story of another downsizing at a local company. The workers were angry and complained that the company ownership was unfair. A terminated manager of about 45 years of age had his wife and two babies at the plant and was begging the guards to let him talk to the owners to ask if they would reconsider his termination. He had just bought a house and was afraid of losing it. The camera focused in on his pleading for all the world to see. Needless to say, it held my attention.”
-    </p>
-</blockquote>
+> “On the news was a story of another downsizing at a local company. The workers were angry and complained that the company ownership was unfair. A terminated manager of about 45 years of age had his wife and two babies at the plant and was begging the guards to let him talk to the owners to ask if they would reconsider his termination. He had just bought a house and was afraid of losing it. The camera focused in on his pleading for all the world to see. Needless to say, it held my attention.”  
 
+***
 ### 4. The Man Who Solved the Market by  Gregory Zuckerman
 
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.ca/kp/card?asin=B07P1NNTSD&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_N8MX2SX08GH2Y3A2S2D7&hideBuy=true&hideShare=true" ></iframe>
@@ -35,6 +33,7 @@ The book sheds light on the formidable challenge of solving the stock market by 
 
 Fast-forwarding to the present, the book talks about these modern finance experts called 'quants.' These guys use **'alternative data',** which is about using super creative data sources to make stock market predictions. For example, they look at satellite images of parking lot traffic to guess how well a big store like Walmart is doing. They check all sorts of data, like the tone of voices in conference calls, records of car insurance applications, advice from social media stars, and even pictures from space showing how many crops are growing. I personally found the use of data analytics to analyze backgrounds of commissioners and other officials in the Food and Drug Administration to forecast the **likelihood of drug approval** as the most intriguing.
 
+***
 ### 3. A Random Walk Down Wall Street by Burton G Malkiel
 
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.ca/kp/card?asin=B07DP6YGVX&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_WQN0TP53R38W4MAE7TR9&hideBuy=true&hideShare=true" ></iframe>
@@ -47,7 +46,7 @@ The book effectively introduces two major investing styles: Fundamental Analysis
 
 Overall, the book offers reasonable evidence to support the importance of diversification and underscores the slim odds of succeeding through individual stock picking. It advocates for choosing index funds over attempting to beat the market. If you're still convinced and eager to dive into investing, I would recommend reading the next book, "Beating the Street".
 
-
+***
 ### 2. Beating the Street by Peter Lynch
 
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.ca/kp/card?asin=B00768D664&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_QBG9VG1D8WB1VZ00FN84&hideBuy=true&hideShare=true" ></iframe>
@@ -60,6 +59,7 @@ Lynch, discusses his approach of **“Growth at a reasonable price”**, finding
 
 A peek into Lynch's bloodhound stock-picking style reveals an entirely empirical approach, akin to sniffing scents in every direction—across various industries and different products. "Beating the Street" provides a wealth of insights into the nuances of stock picking approaches and the **mispricing opportunities** available in diverse industries. Lynch's warm, communicative tone makes this book not just an educational read but a journey into the fascinating world of investment through the eyes of a seasoned and successful investor.
 
+***
 ### 1. How to Make Money in Stocks by William O'Neil
 
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.ca/kp/card?asin=B00916ARYS&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_8WQBSW37HRWN64WD1W4T&hideBuy=true&hideShare=true" ></iframe>
@@ -72,7 +72,7 @@ Personally, my bias towards this book stems from its proposal of creative **indi
 
 The book also highlights the importance of investor psychology and the impact of emotions on decision-making. O'Neil discusses common pitfalls such as letting losses mount and succumbing to the fear of missing out (FOMO). Ultimately, O'Neil's "How to Make Money in Stocks" serves as a valuable resource for intermediate investors, offering a strategic framework to navigate the complexities of the stock market.
 
-
+***
 ## Special Mentions
 
 ### 3. The Intelligent Investor by Benjamin Graham
@@ -84,6 +84,7 @@ The book also highlights the importance of investor psychology and the impact of
 
 This book is a classic goldmine for creating a **qualitive checklist** to pick out good investments. The book advises looking for funds where managers have skin in the game – where they are the biggest shareholders of their own funds. When it comes to stocks, the book stresses the importance of investing in companies where the management has integrity, with the tone and substance of chairperson letters remaining consistent and not following Wall Street fads. Management accountability is crucial too, with CEOs comparing past predictions with present realities in earnings calls. Watch out for sky-high CEO pay – if it's over $100 million, it's a red flag. Plus, it's all about managers focusing on running the company, not just showcasing it to the public. "The Intelligent Investor" might have an old-school vibe, but its timeless tips are a solid roadmap for navigating the ever-changing world of investments.
 
+***
 ### 2. Antifragile by Nassim Nicholas Taleb
 
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.ca/kp/card?asin=B0083DJWGO&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_XQATFQDH9YT2TGMX7VH4&hideBuy=true&hideShare=true" ></iframe>
@@ -94,6 +95,7 @@ Taleb points out that success can mess with our heads, making us psychologically
 
 Following this antifragile vibe, Taleb brings in his **Barbell & the Bimodal strategy**. It's about extremes – keeping 90% in super-safe stuff like cash and going wild with 10% in risky, high-reward investments. The idea is that the **high-risk stuff is antifragile**, potentially bringing in big rewards from unexpected events, like **Bitcoin** taking over should the US dollar fail. The book is a treasure trove of insights, helping us grasp the concept of antifragility and use it to our advantage.
 
+***
 ### 1. Thinking, Fast and Slow by Daniel Kahneman 
 
 <iframe type="text/html" sandbox="allow-scripts allow-same-origin allow-popups" width="250" height="418" frameborder="0" allowfullscreen style="max-width:100%" src="https://read.amazon.ca/kp/card?asin=B004R1Q2EG&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_NW98M7P81QY6YNAN8XT5&hideBuy=true&hideShare=true" ></iframe>
@@ -105,3 +107,5 @@ Kahneman shares a personal story about army candidate assessments, where observa
 Shifting to the stock market, the book highlights that male traders often act on weird ideas more recklessly than their female counterparts, leading to poorer performance. There's also a common tendency among investors to sell stocks that are doing well, despite studies showing that *holding onto winners and cutting losers* is a wiser long term move in the stock market.	
 
 "Thinking, Fast and Slow" suggests that it's beneficial to **blend intuition with facts, but only after examining the evidence**. Particularly in unpredictable domains like the stock market, the book advises relying on statistics instead of solely relying on your instincts. For example, *after conducting a thorough quantitative analysis, one can then intuitively assess the investment based on a qualitative checklist*, perhaps inspired by a comprehensive reading of 'The Intelligent Investor'. Ultimately, playing the long-term game with the stock market is about avoiding those "I should've done it differently" moments – either trust your gut without overthinking or thoroughly think things through to dodge regret down the road.
+
+***

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generative AI Art - Midjourney and DALL-E
+title: Generative AI Art - Midjourney and DALL-E Explorations
 image: mermaid_midj.png
 date: 2023-11-08 9:21:20 +0200
 tags: [AI Art, Generative Art, Generative Artificial Intelligence]

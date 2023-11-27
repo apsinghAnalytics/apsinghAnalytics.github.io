@@ -12,8 +12,9 @@ author-twitter:  # Add your twitter account
 about-author:   An engineer with a research background in thermodynamics and fluid simulations. Curiosity about the capital markets led me to explore data science. This blog showcases my data science projects and other personal growth explorations.
 
 # Social settings
-social-twitter:   
-social-facebook:
+social-twitter:
+social-tableau: aditya.prakash.singh    
+social-goodreads: 16558285-aditya-prakash-singh?shelf=data-science-and-ai  # this is taken from the user's link to the goodreads shelves
 social-github:    apsinghAnalytics
 social-pinterest: 
 social-instagram: 
@@ -36,7 +37,7 @@ permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
 
-paginate: 7
+paginate: 7 
 paginate_path: "/page/:num/"
 
 include:
@@ -51,3 +52,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+

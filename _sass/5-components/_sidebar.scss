@@ -18,11 +18,18 @@
   height: 100vh;
   overflow-y: auto;
   
+  @media (max-width: 767px) {
+    /* Styles for screens smaller than 768px (typical mobile devices) */
+    width: 100%; /* Set width to 100% for full-width on mobile */
+    padding: 20px; /* Adjust padding as needed for mobile layout */
+    text-align: left; /* Adjust text alignment as needed for mobile layout */
+  }
+
 }
 
 .c-sidebar-author {
   .c-author__cover {
-    width: 300px;
+    width: 100%;
     height: auto;
     margin: 0 auto 10px;
     border-radius: 0;

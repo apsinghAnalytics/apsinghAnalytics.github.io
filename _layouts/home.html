@@ -29,8 +29,8 @@ layout: default
       </div>
     </div>
   </div>
-
-
+  
+   
   <div class="c-sidebar-footer">
     <div class="c-social">
       <div class="c-social__title">Social</div>
@@ -39,8 +39,12 @@ layout: default
           <li class="c-social__item"><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><div data-icon='ei-sc-twitter' data-size='s'></div></a></li>
         {% else %}
         {% endif %}
-        {% if site.social-facebook %}
-          <li class="c-social__item"><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><div data-icon='ei-sc-facebook' data-size='s'></div></a></li>
+        {% if site.social-tableau %} <!-- since evil icon for tableau is not available so icon must be downloaded-->
+          <li class="c-social__item"><a href="https://public.tableau.com/app/profile/{{ site.social-tableau }}" target="_blank"><div><img src="{{ site.baseurl }}/images/tableauicon.png" alt="Tableau Icon"></div></a></li>
+        {% else %}
+        {% endif %}
+        {% if site.social-goodreads %} <!-- since evil icon for goodreads is not available so icon must be downloaded-->
+          <li class="c-social__item"><a href="https://www.goodreads.com/review/list/{{ site.social-goodreads }}" target="_blank"><div><img src="{{ site.baseurl }}/images/goodreadsicon.png" alt="Tableau Icon"></div></a></li>
         {% else %}
         {% endif %}
         {% if site.social-github %}
