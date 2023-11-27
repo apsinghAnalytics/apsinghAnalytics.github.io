@@ -18,13 +18,7 @@
   height: 100vh;
   overflow-y: auto;
   
-  @media (max-width: 767px) {
-    /* Styles for screens smaller than 768px (typical mobile devices) */
-    width: 100%; /* Set width to 100% for full-width on mobile */
-    padding: 20px; /* Adjust padding as needed for mobile layout */
-    text-align: left; /* Adjust text alignment as needed for mobile layout */
-  }
-
+  
 }
 
 .c-sidebar-author {
@@ -35,6 +29,7 @@
     border-radius: 0;
     overflow: hidden;
     background-color: $secondary-color;
+    
     img {
       width: 100%;
       height: auto;
@@ -142,10 +137,12 @@
   }
 }
 
-@media only screen and (max-width: 900px) {
+
+@media only screen and (max-width: 1200px) {
   .c-sidebar {
     position: relative;
     width: 100%;
+    height: auto;
     padding: 20px;
     .c-contact-menu {
       margin: 20px 0;
@@ -159,6 +156,7 @@
     }
     .c-social__list {
       margin: 0;
+      
     }
     .c-copyright {
       @include screen-reader();
@@ -169,8 +167,8 @@
 @media only screen and (max-width: 480px) {
   .c-sidebar-author {
     .c-author__cover {
-      width: 80px;
-      height: 80px;
+      width: 100%;
+      height: auto;
       img {
         width: 100%;
         height: 100%;
@@ -209,6 +207,7 @@
   }
 }
 
+
 /* Add this style to set the badge container */
 .c-credly-badges {
   display: flex;
@@ -228,4 +227,3 @@
 .c-sidebar-badge {
   text-align: center;
 }
-
