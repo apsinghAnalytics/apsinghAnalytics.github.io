@@ -4,7 +4,7 @@ title: US Recession Indicators Power BI Dashboard
 image: RecessionIndicators.png
 date: 2023-09-10 10:23:20 +0200
 tags: [Scraping, Power BI, Dashboard, Visualization, GoogleTrendsAPI, Recession, Economic Data]
-categories: Data_Analytics
+categories: [Data_Analytics, Finance, Businesses]
 ---
 ### **Power BI Dashboard Tracking Recession Indicators: Macro-Economic Data and Google Trends using Web-Scraping and PyTrends API**
 

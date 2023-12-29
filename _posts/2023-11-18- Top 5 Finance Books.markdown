@@ -4,7 +4,7 @@ title: Investor's Arsenal - The Top 5 Books That Will Transform Your Approach to
 image: MoneyTree.jpg
 date: 2023-11-18 9:21:20 +0200
 tags: [Investing, Finance, Market, Stock Markets, Wealth, Financial Independence, Stock Picking]
-categories: Books
+categories: [Finance]
 ---
  
 ***
