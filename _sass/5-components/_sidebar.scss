@@ -19,6 +19,8 @@
   overflow-y: auto;
   
   
+
+  
 }
 
 .c-sidebar-author {
@@ -208,22 +210,10 @@
 }
 
 
-/* Add this style to set the badge container */
-.c-credly-badges {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-/* Add this style to set the badge width */
-.c-credly-badge {
-  width: 150px; /* Adjust the width as needed */
-  height: auto;
-  margin: 10px; /* Adjust margin as needed */
-  display: block;
-}
 
 /* Add this class to the section where you want to embed the badges */
 .c-sidebar-badge {
   text-align: center;
+  padding: 20px;
+  // ... any other styles you wish to apply ...
 }
