@@ -30,4 +30,9 @@ The clean data then paved the way for building our ML models. Curious about how 
 
 The cleaned data was also used to create a sleek **Tableau dashboard** to visualize the trends. You can explore it [here](https://public.tableau.com/app/profile/aditya.prakash.singh/viz/CrowdfundingTrendsDashboard/Dashboard). (Quick note for those on smaller desktop screens: switch to **'Desktop Layout'** on Tableau Public for the best view)
 
+#### Streamlit UI
+
+<p align="center"> <img width="900" src="{{ site.baseurl }}/images/CrowdFundProphetApp.gif"> </p>
+
+
 Stay tuned for more updates and insights. 
