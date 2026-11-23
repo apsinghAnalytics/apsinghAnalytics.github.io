@@ -1,0 +1,16 @@
+---
+layout: home
+---
+<article class="c-article">
+  <div class="c-article__content">
+    <div class="c-wrap-content">
+      <header class="c-article__header">
+        <h1 class="c-article__title">{{ page.title }}</h1>
+      </header>
+      {{ content }}
+      <nav aria-label="Echo Loop information">
+        <p><a href="{{ '/echo-loop/' | relative_url }}">Echo Loop</a> &middot; <a href="{{ '/echo-loop/privacy/' | relative_url }}">Privacy Policy</a> &middot; <a href="{{ '/echo-loop/terms/' | relative_url }}">Terms of Use</a></p>
+      </nav>
+    </div>
+  </div>
+</article>
